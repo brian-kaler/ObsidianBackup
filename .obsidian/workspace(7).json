@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "c5ec7c741c0e133e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4f4eedb141bdc92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe0cca6cde5ec39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Wiki style article based on new improvements for {{title}}.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dcca93904375166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brian-@-Securitas/Meeting-Notes/EUS-Meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bfefb35fca01c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brian-@-Securitas/Meeting-Notes/EUS Meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61829557e22cba28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8581ef6dcc7e974",
+    "type": "split",
+    "children": [
+      {
+        "id": "097600de69d04a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59eebff093bc0fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3aa8312247c1252a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89f479c6aa0a0b05",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aabf543054a2d400",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb3a31c153732b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c6ef6b058c846b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c3431e0ea2913aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4743dfcd1f9ea6c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "011d9860b2f68a67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 4.md"
+              }
+            }
+          },
+          {
+            "id": "0360f0276c1952d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "61829557e22cba28",
+  "lastOpenFiles": [
+    "Brian-@-Securitas/Meeting-Notes/EUS Meeting.md",
+    "Untitled 4.md",
+    "Brian-@-Securitas/Meeting-Notes/EUS-Meeting.md",
+    "Brian-@-Securitas/Meeting-Notes/EUC-Meeting.md",
+    "Brian-@-Securitas/ServiceDesk/CannedResponses/Drive Mappings not provided.md",
+    "Brian-@-Securitas/GPTCompletions/Get a logged on user's mapped drives.md",
+    "Brian-@-Securitas/ServiceDesk/Untitled.md",
+    "Daily/2023-03-21.md",
+    "Daily/2023-03-20.md",
+    "Daily/2023-03-17.md",
+    "chatgpt.md",
+    "camera grab.md",
+    "Untitled 3.md",
+    "Templates/Wiki style article based on new improvements for {{title}}.md",
+    "Users Network Drive.md",
+    "Pasted image 20230317121944.png",
+    "Untitled 2.md",
+    "GPT Art test.md",
+    "Shift Left Tickets.md",
+    "Get-GPResult.md",
+    "Brian-@-Securitas/Documentation/SCCM Audit High-Level.md",
+    "Brian-@-Securitas/Quick-Notes/RSOP without RPC.md",
+    "windows 10.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "test.md",
+    "SES Online Archive issue.md",
+    "textgenerator/prompts/default",
+    "textgenerator/prompts/dalle-2",
+    "textgenerator/prompts",
+    "textgenerator",
+    "Brian-@-Securitas/media/Documentation-Communications-PatchMyPC-Writeup-image1.png",
+    "Brian-@-Securitas/media/Documentation-Communications-Outlook-hangs-and-freezes-(Shared-folder-download)-image2.png",
+    "Brian-@-Securitas/media/Documentation-Communications-Office-365---Channel-Change-plan-image1 2.gif",
+    "Brian-@-Securitas/media/Documentation-Communications-EOC-Printer-Migration-Compliance-Item-Documentation-image1.png",
+    "Brian-@-Securitas/media/Documentation-Communications-Canada-PNKCAN-Workstation-Inventory-image3.jpg",
+    "Brian-@-Securitas/GPTCompletions",
+    "Brian-@-Securitas/ServiceDesk/CannedResponses",
+    "Brian-@-Securitas/ServiceDesk",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Brian-@-Securitas/media/Quick-Notes-Home-image7.jpg",
+    "Brian-@-Securitas/media/Quick-Notes-Home-image8.gif",
+    "Brian-@-Securitas/media/Quick-Notes-Dell-DCU-Versions-image1.png",
+    "Brian-@-Securitas/media/Quick-Notes-Dell-DCU-Versions-image2.png",
+    "Brian-@-Securitas/media/Open-Enrollment-Workshops-and-Webcasts-for-Customer-Registration---August-30,-2019.xlsx",
+    "Brian-@-Securitas/media",
+    "Brian-@-Securitas/Documentation/Wyse"
+  ]
+}

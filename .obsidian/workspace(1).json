@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "c5ec7c741c0e133e",
+    "type": "split",
+    "children": [
+      {
+        "id": "83b6e54ae7d98aa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a98997308729fb2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PST in SES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8581ef6dcc7e974",
+    "type": "split",
+    "children": [
+      {
+        "id": "097600de69d04a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59eebff093bc0fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3aa8312247c1252a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89f479c6aa0a0b05",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aabf543054a2d400",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb3a31c153732b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c6ef6b058c846b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PST in SES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c3431e0ea2913aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PST in SES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4743dfcd1f9ea6c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "011d9860b2f68a67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PST in SES.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a98997308729fb2f",
+  "lastOpenFiles": [
+    "Dataview test.md",
+    "Brian-@-Securitas/media/Quick-Notes-Home-image7.jpg",
+    "Brian-@-Securitas/media/Quick-Notes-Home-image8.gif",
+    "Brian-@-Securitas/media/Quick-Notes-Dell-DCU-Versions-image1.png",
+    "Brian-@-Securitas/media/Quick-Notes-Dell-DCU-Versions-image2.png",
+    "Brian-@-Securitas/media/Quick-Notes-DP-Troubleshooting-in-Toronto-image1.png",
+    "Brian-@-Securitas/media/Quick-Notes-Home-image4.jpg",
+    "Brian-@-Securitas/media/Quick-Notes-Home-image6.jpg",
+    "Brian-@-Securitas/media/Quick-Notes-Dell-DCU-Detection-and-Configuration-image1.png",
+    "Brian-@-Securitas/media/Quick-Notes-EmaKil-notification-(no-auth)-image1.png",
+    "Brian-@-Securitas/media/Quick-Notes-Home-image3.jpg",
+    "Brian-@-Securitas/media/Open-Enrollment-Workshops-and-Webcasts-for-Customer-Registration---August-30,-2019.xlsx",
+    "Brian-@-Securitas/media",
+    "Brian-@-Securitas/Documentation/Wyse/SCCM-Client-Screens.md",
+    "Brian-@-Securitas/Documentation/Wyse/Iexplore-Duplicate-not-showing-up-issue.md",
+    "Brian-@-Securitas/Documentation/Wyse/Dell-Kiosk-found-missing-after-updating-agent.md",
+    "Brian-@-Securitas/Documentation/Wyse/Dell-Configuration-file.md",
+    "Brian-@-Securitas/Documentation/Wyse/Application-Commands-that-work.md",
+    "Brian-@-Securitas/Documentation/Wyse",
+    "Brian-@-Securitas/Documentation/Projects/CMS--Project-Diagram.md",
+    "Brian-@-Securitas/Documentation/Projects/20h2-Upgrade-Testing.md",
+    "Brian-@-Securitas/Documentation/Projects",
+    "Brian-@-Securitas/Documentation/OSD/Updating-the-ADK-for-Windows-(2004).md",
+    "Brian-@-Securitas/Documentation/OSD/Windows-10---1809-Required-Deployment-behavior.md",
+    "Brian-@-Securitas/Documentation/OSD/Windows-10-1809--OneVinn--troubleshooting.md",
+    "Brian-@-Securitas/Documentation/OSD/Untitled-page-2.md",
+    "Brian-@-Securitas/Documentation/OSD/Untitled-page-1.md",
+    "Brian-@-Securitas/Documentation/OSD/Untitled-page.md",
+    "Brian-@-Securitas/Documentation/OSD/Systems-Management-Containers-(Mexico).md",
+    "Brian-@-Securitas/Documentation/OSD/System-Management-Containers-(Canada).md",
+    "Brian-@-Securitas/Documentation/OSD/Screenshots,-1809--TSLaunch--Onevinn.md",
+    "Brian-@-Securitas/Documentation/OSD/Securitas-eval-units.md",
+    "Brian-@-Securitas/Documentation/OSD/SCCM-Health-Report.md",
+    "Brian-@-Securitas/Documentation/OSD/Image-Versioning-Change-Control.md",
+    "Brian-@-Securitas/Documentation/OSD/Image-Review-(IPM).md",
+    "Brian-@-Securitas/Documentation/OSD/Network-Service-account.md",
+    "Brian-@-Securitas/Documentation/OSD/Language-Pack-Notes.md",
+    "Brian-@-Securitas/Documentation/OSD/HP-Locate-the-ProductID-aka-BaseboardProduct.md",
+    "Brian-@-Securitas/Documentation/OSD/HP-Driver-Solutions.md",
+    "Brian-@-Securitas/Documentation/OSD/Distribution-Point-Peer-Prereqs-(DISM-command).md",
+    "Brian-@-Securitas/Documentation/OSD",
+    "Brian-@-Securitas/Documentation/NoTouch",
+    "Brian-@-Securitas/Documentation/End-User",
+    "Brian-@-Securitas/Documentation/Connectwise",
+    "Brian-@-Securitas/Documentation/Communications",
+    "Brian-@-Securitas/Documentation/CMR"
+  ]
+}

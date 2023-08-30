@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "175c1f65fe9fdaac",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c7b6d7d494c8da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9028c73e92088a1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20230406080528_534.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42d91efb27691e2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a389fb83bd6bbd27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02bd6e404e00900",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1440f4fcae71ff59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da3db9b4ebde2138",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b45bdb632c30ec76",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d7dfe84fa17e48f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d9876738265f3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted Image 20230406080528_534.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3eb6d6663d34962",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted Image 20230406080528_534.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "468fbf83cf1cb30f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc53b8a65b7f59b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted Image 20230406080528_534.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b9028c73e92088a1",
+  "lastOpenFiles": [
+    "Daily/2023-04-06.md",
+    "Pasted Image 20230406080528_534.png",
+    "TEST.md",
+    "Untitled.md",
+    "Daily/2023-04-05 1.md",
+    "Excalidraw/Drawing 2023-04-06 07.57.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-06 07.43.38.excalidraw.md",
+    "Pictures/Projects-SCCM-CANADA-SCCM-OSD-image1 2.png",
+    "Pictures/Operations-Domino-(Securitas)-IBM-Support-Phone-image1 2.png",
+    "Pictures/Windows-Deployment-SCCM-Main-Service-Accounts-in-Production-sccm-image2.png",
+    "Pictures/Unfiled-Notes-From-dell_epp@dellhome.usa.dell.com---Red-Hot-Deals---PCs-from-$244.99-image1.gif",
+    "Pictures/Unfiled-Notes-From-dell_epp@dellhome.usa.dell.com---#1-monitors.-All-on-sale.-Win.-image5.gif",
+    "Pictures/Unfiled-Notes-From-dell_epp@dellhome.usa.dell.com----America's-favorite-desktops-image5.gif",
+    "Pictures/Operations-USOC-Immix-Windows-Update-incident-image1.png",
+    "Pictures/Unfiled-Notes-Diagram-of-Notes-Proxy-design-image11.png",
+    "Pictures/Unfiled-Notes-From-dell_epp@dellhome.usa.dell.com---Save-32%-on-select-PCs-&-47%-on-select-electronics.-image6.gif",
+    "Daily/2023-04-05.md",
+    "Templates/Daily Note.md",
+    "Unsorted/Powershell .NET Objects.md",
+    "Unsorted/Powershell Objects Cheatsheet.md",
+    "Unsorted/Get a user's unknown devices.md",
+    "Unsorted/2023-04-05.md",
+    "Unsorted/Audit plan for SCCM.md",
+    "Unsorted/windows 10.md",
+    "Unsorted/Grant Track Pictures.md",
+    "Unsorted/test.md",
+    "Unsorted/Shift Left Tickets.md",
+    "Unsorted/GPT Art test.md",
+    "Unsorted/Canada Global Protect Certificate Issue.md",
+    "Unsorted/Beautiful Soup 1.md",
+    "Unsorted/Windows Calculator fix.md",
+    "Unsorted/Troubleshooting Unable to Select Windows Server 2016 CA-Compatible Certificate Templates.md",
+    "Unsorted/PST in SES.md",
+    "Unsorted/PST Restriction and Exemption GPO.md",
+    "Unsorted/Learning Obsidian by fooling around.md",
+    "Onenotes/AncientNotes/media/sysprep.inf",
+    "Onenotes/AncientNotes/media/RE--Windows-info.msg",
+    "Onenotes/AncientNotes/media/PanelLayout.xml",
+    "Onenotes/AncientNotes/media/FW--SecuritasVision-PDA-PC-Information-Needed.msg",
+    "Onenotes/AncientNotes/media/Audio-Recording.3gp",
+    "Onenotes/AncientNotes/Windows-Deployment/Task-Sequence-ChangeLogs",
+    "Onenotes/AncientNotes/Windows-Deployment/SCCM",
+    "Onenotes/AncientNotes/Windows-Deployment/Maintenance",
+    "Onenotes/AncientNotes/Windows-Deployment/Documentation",
+    "Onenotes/AncientNotes/Windows-Deployment/Bitlocker",
+    "Untitled 1.canvas"
+  ]
+}

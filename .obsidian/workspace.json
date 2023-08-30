@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "c5ec7c741c0e133e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d26dbea10f8ef5cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74535e9c9951a3fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VaultBackup/CMPivot Queries for Dell DCU Drivers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ce7c55c09450b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Patching Managers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8581ef6dcc7e974",
+    "type": "split",
+    "children": [
+      {
+        "id": "097600de69d04a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59eebff093bc0fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3aa8312247c1252a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SCCMBUILD",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5d319ad05dd3c4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aabf543054a2d400",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb3a31c153732b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c6ef6b058c846b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Server Patching Managers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c3431e0ea2913aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Server Patching Managers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4743dfcd1f9ea6c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0360f0276c1952d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cd89d2a59a05a29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Server Patching Managers.md"
+              }
+            }
+          },
+          {
+            "id": "5516a75e32cb671d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7ce7c55c09450b8e",
+  "lastOpenFiles": [
+    "VaultBackup/CMPivot Queries for Dell DCU Drivers.md",
+    "Server Patching Managers.md",
+    "VaultBackup/Jim's notes.md",
+    "VaultBackup/8-16-2023 Dell Command Update.md",
+    "Onenotes/Brian-@-Black-Agate/Quick-Notes/AAD-SP-AzureDevOps.md",
+    "FleetingNotesApp/what are backlinks.md",
+    "FleetingNotesApp/START HERE.md",
+    "FleetingNotesApp/This is another test.md",
+    "FleetingNotesApp/how to build connections in Fleeting Notes.md",
+    "VaultBackup/NA_AdministrativeUsers.md",
+    "VaultBackup/Daily/2023-08-16.md",
+    "Onenotes/Brian-@-Black-Agate/Musings/A-video-blog-script..md",
+    "Onenotes/Brian-@-Black-Agate/media/Pixalate-Apple-DEP-Project-New-Laptop-Process-Diagram-image2.jpeg",
+    "Onenotes/Brian-@-Black-Agate/media/Astera-Supermicro-MicroServer-NIC-layout-image1.jpeg",
+    "Onenotes/Brian-@-Black-Agate/media/Pixalate-Apple-DEP-Project-DEP-Lock-Diagram-image13.jpeg",
+    "Onenotes/Brian-@-Black-Agate/Gratitude/Untitled-page.md",
+    "Onenotes/Brian-@-Black-Agate/Gratitude/Gratitude-3.md",
+    "Onenotes/Brian-@-Black-Agate/Gratitude/Gratitude-2.md",
+    "Onenotes/Brian-@-Black-Agate/Gratitude/Gratitude-1.md",
+    "Onenotes/Brian-@-Black-Agate/Gratitude/Counseling-session.md",
+    "Onenotes/Brian-@-Black-Agate/Grant/Parent-Teacher-confererence.md",
+    "Onenotes/Brian-@-Black-Agate/Finance/IRA-Account-details.md",
+    "Onenotes/Brian-@-Black-Agate/Finance/Crystalvale-jewel.md",
+    "Onenotes/Brian-@-Black-Agate/Astera/Meeting-notes.md",
+    "Onenotes/Brian-@-Black-Agate/Astera/Creating-a-hyper-v-server.md",
+    "Onenotes/Brian-@-Black-Agate/Astera/Rack-Diagram-2022.md",
+    "Onenotes/Brian-@-Black-Agate/Astera/Supermicro-MicroServer-NIC-layout.md",
+    "Onenotes/Brian-@-Black-Agate/Astera/Randomsomeware-event.md",
+    "VaultBackup/this is a test note to git.md",
+    "VaultBackup",
+    "VaultBackup/Pasted image 20230815142843.png",
+    "VaultBackup/Open Items and Project Status.canvas",
+    "VaultBackup/Untitled.canvas",
+    "VaultBackup/Scripts",
+    "VaultBackup/Pasted image 20230727091641.png",
+    "VaultBackup/Pictures/Documentation-Communications-Canada-PNKCAN-Workstation-Inventory-image3.jpg",
+    "VaultBackup/Pasted image 20230524072522.png",
+    "~$w-UserDeviceDeployment documentation.docx",
+    "VaultBackup/Pasted image 20230512091140.png",
+    "~WRL0850.tmp",
+    "~WRD0842.tmp",
+    "~$CM Overview (NASecuritas AD).docx",
+    "SCCM Overview (NASecuritas AD).docx",
+    "Untitled",
+    "FleetingNotesApp",
+    "~WRL0003.tmp",
+    "VaultBackup/2023-04-11 10_22_07-.png",
+    "VaultBackup/noun-calendar-5645404.png"
+  ]
+}

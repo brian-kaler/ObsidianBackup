@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:Templates/Meeting Notes.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ]
+}

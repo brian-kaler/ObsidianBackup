@@ -1,0 +1,13 @@
+
+- Checkpoint Uninstall
+	- Looking at uninstall without reboot
+- Softphone issue
+	- checkpoint uninstall fixes
+- Windows Update Calculator
+	- Still piloting
+	- Pilot IT User (Comm and deploy)
+- 22H2 95% complete
+- SCCM Upgrade 
+	- Imaging w/ Dell - Communicate downtime.
+	- Comm for L2 imaging the next day.
+	- change request for client upgrades next week.

@@ -1,0 +1,2 @@
+- Security Baseline GPOs will be removed
+- Domain will start with all security locked down initially

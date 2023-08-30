@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"09ffcd4f4e2acfe7","x":-1120,"y":-1400,"width":250,"height":60,"type":"text","text":"This is a card\nwhat does it do?\n"},
+		{"id":"ccf0d85b26b698e6","x":-440,"y":-1280,"width":1280,"height":560,"type":"file","file":"VaultBackup/CMPivot Queries for Dell DCU Drivers.md"}
+	],
+	"edges":[]
+}

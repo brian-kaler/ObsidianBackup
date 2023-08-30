@@ -1,0 +1,337 @@
+{
+  "main": {
+    "id": "c5ec7c741c0e133e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b45a6ca9243ac2c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed270213eee7b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Onenotes/Brian-@-Securitas/Quick-Notes/Dell-DCU-Detection-and-Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0335ecce71600550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Update Managed Settings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b21e07bcc3b4c583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Action plan for unwanted windows 11 upgrade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afa9f51e1318bfc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HP Elitebook 840 G9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b858707ac2a14113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-06-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "911355dd344be7f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
+            "id": "2501a844a8ff42ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows 11 upgrade tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc90e0b358ecc0ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCCM Site Upgrade 23'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a14572d320706da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Action plan for unwanted windows 11 upgrade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "d98213b8ffccf39e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ae7cf242389ef09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New-UserDeviceDeployment documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8581ef6dcc7e974",
+    "type": "split",
+    "children": [
+      {
+        "id": "097600de69d04a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59eebff093bc0fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3aa8312247c1252a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tasks",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89f479c6aa0a0b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Win11 user 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5d319ad05dd3c4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aabf543054a2d400",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb3a31c153732b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c6ef6b058c846b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SCCM Site Upgrade 23'.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c3431e0ea2913aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SCCM Site Upgrade 23'.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4743dfcd1f9ea6c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0360f0276c1952d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cd89d2a59a05a29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SCCM Site Upgrade 23'.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "dc90e0b358ecc0ee",
+  "lastOpenFiles": [
+    "Windows 11 upgrade tasks.md",
+    "SCCM Site Upgrade 23'.md",
+    "Onenotes/Brian-@-Securitas/Quick-Notes/Dell-DCU-Detection-and-Configuration.md",
+    "Windows Update Managed Settings.md",
+    "Action plan for unwanted windows 11 upgrade.md",
+    "HP Elitebook 840 G9.md",
+    "Daily/2023-06-01.md",
+    "DCU Install in Securitas Technology.md",
+    "Pictures/Documentation-Communications-Canada-PNKCAN-Workstation-Inventory-image3.jpg",
+    "Larry ingram.md",
+    "SCCM CB Improvements in.md",
+    "EUC Meeting Notes 5-31-23.md",
+    "windows 11 template.md",
+    "Win11 user 2.md",
+    "Update Windows 10 ISO 22H2.md",
+    "Truecrypt linux mount.md",
+    "HP Elite 360 G10.md",
+    "Untitled.canvas",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 4.md",
+    "Untitled 1.md",
+    "Don't starve session 5-11.md",
+    "Document Phased rollout script.md",
+    "Distribution point self signed certificates.md",
+    "CST1-HHMLHW3.md",
+    "CST1-5N3LTV3.md",
+    "Change Request for PST Exemption.md",
+    "Pasted image 20230524072522.png",
+    "~$w-UserDeviceDeployment documentation.docx",
+    "Pasted image 20230512091140.png",
+    "~WRL0850.tmp",
+    "~WRD0842.tmp",
+    "~$CM Overview (NASecuritas AD).docx",
+    "SCCM Overview (NASecuritas AD).docx",
+    "Untitled",
+    "FleetingNotesApp",
+    "~WRL0003.tmp",
+    "~WRD0002.tmp",
+    "New-UserDeviceDeployment documentation.docx",
+    "2023-04-11 10_22_07-.png",
+    "noun-calendar-5645404.png",
+    "Pasted Image 20230406080528_534.png",
+    "Pictures/Misc-Misc-Esata-vs-USB-Storage-image12.png",
+    "Pictures/Misc-Misc-Esata-vs-USB-Storage-image11.png",
+    "Pictures/Misc-Misc-Esata-vs-USB-Storage-image10.png",
+    "Pictures/Misc-Misc-Esata-vs-USB-Storage-image1.png",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "c2e1b865a2d55efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3db654e53caf9e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a0912fb3e337bbf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b912692ab7e4594a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad6458e42f901bd5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "69e4a50eb1bc5e40",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2dea24aa4f0a255",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2ffda1b68fc3150",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a2820cf8eaa12c6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f097c01a029839ac",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "43308b1651c245f0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#tasks",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "00128065a15b3c93",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9935bbe6d8e39d73",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "3ce66599ce83a368",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "525ba39f698010d9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "72777c778cc6df78",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "18cce0d6d0b92ed3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "51b41ae6859b766e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "8bacf6c17a49edf8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "1a0912fb3e337bbf",
+  "lastOpenFiles": [
+    "VaultBackup/8-16-2023 Dell Command Update.md",
+    "VaultBackup/Pasted image 20230815142843.png",
+    "VaultBackup/this is a test note to git.md",
+    "VaultBackup/Daily/2023-08-16.md",
+    "VaultBackup/AD Consolidation - SCCM Build.md",
+    "VaultBackup/Open Items and Project Status.canvas",
+    "VaultBackup/Untitled 4.md",
+    "VaultBackup/Open items and Project Status.md",
+    "VaultBackup/Netapp Migration Project.md",
+    "VaultBackup/Daily/2023-08-15.md",
+    "VaultBackup/EUS Innovations.md",
+    "VaultBackup/Jim's notes.md",
+    "VaultBackup/Daily/2023-07-31.md",
+    "VaultBackup/Untitled 1.md",
+    "VaultBackup/Untitled 2.md",
+    "VaultBackup/Daily/2023-08-14.md",
+    "VaultBackup/Dell Command Update Project.md",
+    "VaultBackup/Daily/2023-08-01.md",
+    "VaultBackup/Untitled.md",
+    "VaultBackup/Untitled 3.md",
+    "VaultBackup/SNA-7G233J3.md",
+    "VaultBackup/Image validation 7-31-23.md",
+    "VaultBackup/Daily/2023-07-28.md",
+    "VaultBackup/Available Tasks.md",
+    "VaultBackup/Untitled 5.md",
+    "VaultBackup/Untitled 7.md",
+    "VaultBackup/Untitled 6.md",
+    "VaultBackup/NA_AdministrativeUsers.md",
+    "BrianKaler-MSA.pdf",
+    "Onenotes/Brian-@-Securitas/media/Documentation-OSD-Screenshots,-1809--TSLaunch--Onevinn-image1.jpeg",
+    "Onenotes/PersonalOneNotes/media/Unfiled-Notes-Screenshots,-1809--TSLaunch--Onevinn-image1.jpeg",
+    "VaultBackup/Pictures/Projects-Dell-PCaaS-Dell-Command-Update-4.3.0-image1 2.png",
+    "VaultBackup/Pictures/Documentation-End-User-SCCM-Exempt-a-MAC-Address-(0F-error-during-PXE-boot)-image1 2.jpg",
+    "VaultBackup/Pictures/Operations-USOC-Immix-Windows-Update-incident-image3 2.png",
+    "VaultBackup/Pictures/Operations-General-Windows-1803-Upgrade-image1 2.png",
+    "VaultBackup/Pictures/Projects-SCCM-CHG0031935---Peercache-Enable-image1.png",
+    "VaultBackup/Pictures/Quick-Notes-Cummulative-update-w--Dell-Updates-Notes-image1 2.png",
+    "VaultBackup/Pictures/Operations-General-Update-for-Wallpaper-SOP-image1 2.png",
+    "Untitled.canvas",
+    "untitled folder",
+    "New-UserDeviceDeployment documentation.docx",
+    "Excalidraw/Scripts",
+    "Excalidraw/Scripts/Downloaded",
+    "AncientNotes/media/Audio-Recording.3gp",
+    "Brian-@-Black-Agate/media/Server-rack-diagram.pdf",
+    "Brian-@-Securitas/media/Open-Enrollment-Workshops-and-Webcasts-for-Customer-Registration---August-30,-2019 2.xlsx",
+    "AncientNotes/media/RE--Windows-info.msg",
+    "AncientNotes/media/FW--SecuritasVision-PDA-PC-Information-Needed.msg"
+  ]
+}

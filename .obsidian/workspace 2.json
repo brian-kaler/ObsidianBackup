@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "175c1f65fe9fdaac",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c7b6d7d494c8da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9028c73e92088a1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2023-04-04 14_03_56-userdpt02 - Remote Desktop Connection.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42d91efb27691e2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a389fb83bd6bbd27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02bd6e404e00900",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1440f4fcae71ff59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da3db9b4ebde2138",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b45bdb632c30ec76",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d7dfe84fa17e48f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d9876738265f3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-04-04 14_03_56-userdpt02 - Remote Desktop Connection.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3eb6d6663d34962",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-04-04 14_03_56-userdpt02 - Remote Desktop Connection.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "468fbf83cf1cb30f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc53b8a65b7f59b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-04-04 14_03_56-userdpt02 - Remote Desktop Connection.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b9028c73e92088a1",
+  "lastOpenFiles": [
+    "Brian-@-Securitas/media/Operations-USOC-Immix-Windows-Update-incident-image6 2.png",
+    "PersonalOneNotes/Unfiled-Notes/From-jay.mishra@astera.com---RE--VS-2013-error-(URGENT)-2.md",
+    "AncientNotes/Tickets/Arron-Harris.md",
+    "PersonalOneNotes/Unfiled-Notes/From-jay.mishra@astera.com---RE--VS-2013-error-(URGENT)-1.md",
+    "PersonalOneNotes/Unfiled-Notes/From-noreply@tigerdirect.com---Your-TigerDirect.com-Order-J74.md",
+    "AncientNotes/Garbage-Bin/MBAM-Issue-List.md",
+    "PersonalOneNotes/media/Unfiled-Notes-Diagram-of-domino-proxy-config-image85.png",
+    "PersonalOneNotes/Unfiled-Notes/From-ibrahim.surani@astera.com---RE--Sap-setup-update-.md",
+    "PersonalOneNotes/Unfiled-Notes/From-mike.oquinn@astera.com---RE--Amazon-Web-Services-Billing.md",
+    "PersonalOneNotes/Unfiled-Notes/From-jay.mishra@astera.com---RE--VS-2013-error-(URGENT).md",
+    "GTD/OUT/Emmanuel-VS2017-issue.md",
+    "AncientNotes/media/Windows-Deployment-SCCM-Main-BITS-Patching-image17.png",
+    "PersonalOneNotes/Unfiled-Notes/From-ibrahim.surani@astera.com---need-to-upgrade-my-macbook-p.md",
+    "PersonalOneNotes/media/Unfiled-Notes-prior-image15.png",
+    "PersonalOneNotes/Unfiled-Notes/From-jay.mishra@astera.com---VS-2013-error-(URGENT).md",
+    "PersonalOneNotes/Unfiled-Notes/From-mike.oquinn@astera.com---RE--FW--FW--XHEO.com-Password-R.md",
+    "GTD/OUT/CSOC-Mailfile-upgrades.md",
+    "PersonalOneNotes/Unfiled-Notes/From-mike.oquinn@astera.com---Centerprise-Installation-on-Ama.md",
+    "AncientNotes/Tickets/Mike-Weaver.md",
+    "PersonalOneNotes/Unfiled-Notes/Photo--IMG_0600.md",
+    "PersonalOneNotes/Unfiled-Notes/From-mike.oquinn@astera.com---Re--Call-tonight.md",
+    "AncientNotes/Tickets/Jason-Ginther-1.md",
+    "Brian-@-Securitas/Quick-Notes/Crowdstrike.md",
+    "PersonalOneNotes/Unfiled-Notes/New-SABConfig.md",
+    "PersonalOneNotes/Unfiled-Notes/Astera-process-server.md",
+    "PersonalOneNotes/Unfiled-Notes/From-ibrahim.surani@astera.com---FW--Your-SAP-Portal-User-Pas.md",
+    "Brian-@-Black-Agate/Quick-Notes/Surface-Replacement.md",
+    "PersonalOneNotes/Unfiled-Notes/From-ibrahim.surani@astera.com---RE--akatosh-is-not-reachable.md",
+    "PersonalOneNotes/Unfiled-Notes/From-ibrahim.surani@astera.com---Centerprise-testing-debuggin.md",
+    "Brian-@-Black-Agate/Pixalate/Apple-DEP-Project",
+    "Brian-@-Securitas/Documentation/Projects",
+    "PersonalOneNotes/media/Unfiled-Notes-From-dell_epp@dellhome.usa.dell.com---#1-monitors.-All-on-sale.-Win.-image5.gif",
+    "Brian-@-Securitas/media/Projects-SCCM-CANADA-SCCM-OSD-image1 2.png",
+    "Brian-@-Securitas/media/Operations-Domino-(Securitas)-IBM-Support-Phone-image1 2.png",
+    "AncientNotes/media/Windows-Deployment-SCCM-Main-Service-Accounts-in-Production-sccm-image2.png",
+    "PersonalOneNotes/media/Unfiled-Notes-From-dell_epp@dellhome.usa.dell.com---Red-Hot-Deals---PCs-from-$244.99-image1.gif",
+    "PersonalOneNotes/media/Unfiled-Notes-From-dell_epp@dellhome.usa.dell.com----America's-favorite-desktops-image5.gif",
+    "Brian-@-Securitas/media/Operations-USOC-Immix-Windows-Update-incident-image1.png",
+    "AncientNotes/media/sysprep.inf",
+    "GTD/SOMEDAY",
+    "GTD/NEXT",
+    "GTD/WAITING-FOR",
+    "GTD/OUT",
+    "Brian-@-Securitas/ServiceDesk/CannedResponses",
+    "Brian-@-Securitas/Operations/CSOC",
+    "Brian-@-Black-Agate/Musings"
+  ]
+}

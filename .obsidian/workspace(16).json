@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "c5ec7c741c0e133e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d705561f646ffc13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98bc134abbf6dcfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dell DCU updated documentation links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdf180c52dade4ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powershell script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8581ef6dcc7e974",
+    "type": "split",
+    "children": [
+      {
+        "id": "097600de69d04a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59eebff093bc0fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3aa8312247c1252a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89f479c6aa0a0b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Win11 user 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5d319ad05dd3c4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aabf543054a2d400",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb3a31c153732b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c6ef6b058c846b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Powershell script.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c3431e0ea2913aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Powershell script.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4743dfcd1f9ea6c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0360f0276c1952d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cd89d2a59a05a29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Powershell script.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "cdf180c52dade4ec",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-06-16 07.10.32.excalidraw.md",
+    "Daily/2023-06-16.md",
+    "Dell DCU updated documentation links.md",
+    "Powershell script.md",
+    "Daily/2023-06-12.md",
+    "Unsorted/Task Dashboard.md",
+    "Onenotes/Brian-@-Securitas/Quick-Notes/Dell-DCU-Detection-and-Configuration.md",
+    "Windows Update Managed Settings.md",
+    "Action plan for unwanted windows 11 upgrade.md",
+    "HP Elitebook 840 G9.md",
+    "Daily/2023-06-01.md",
+    "Windows 11 upgrade tasks.md",
+    "Onenotes/Brian-@-Securitas/Quick-Notes/Crowdstrike.md",
+    "Canada Cert Enrollment process for GlobalProtect.md",
+    "Black-Agate.md",
+    "Daily/2023-06-08.md",
+    "Daily/2023-06-02.md",
+    "SCCM Site Upgrade 23'.md",
+    "DCU Install in Securitas Technology.md",
+    "Pictures/Documentation-Communications-Canada-PNKCAN-Workstation-Inventory-image3.jpg",
+    "Larry ingram.md",
+    "SCCM CB Improvements in.md",
+    "EUC Meeting Notes 5-31-23.md",
+    "windows 11 template.md",
+    "Win11 user 2.md",
+    "Update Windows 10 ISO 22H2.md",
+    "Truecrypt linux mount.md",
+    "Untitled.canvas",
+    "Pasted image 20230524072522.png",
+    "~$w-UserDeviceDeployment documentation.docx",
+    "Pasted image 20230512091140.png",
+    "~WRL0850.tmp",
+    "~WRD0842.tmp",
+    "~$CM Overview (NASecuritas AD).docx",
+    "SCCM Overview (NASecuritas AD).docx",
+    "Untitled",
+    "FleetingNotesApp",
+    "~WRL0003.tmp",
+    "~WRD0002.tmp",
+    "New-UserDeviceDeployment documentation.docx",
+    "2023-04-11 10_22_07-.png",
+    "noun-calendar-5645404.png",
+    "Pasted Image 20230406080528_534.png",
+    "Pictures/Misc-Misc-Esata-vs-USB-Storage-image12.png",
+    "Pictures/Misc-Misc-Esata-vs-USB-Storage-image11.png",
+    "Pictures/Misc-Misc-Esata-vs-USB-Storage-image10.png",
+    "Pictures/Misc-Misc-Esata-vs-USB-Storage-image1.png",
+    "Untitled 1.canvas"
+  ]
+}
